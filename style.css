@@ -46,6 +46,10 @@
     .box{
         width: 46%;
     }
+    #boxthree{
+        width: 94%;
+    }
+        
 }
 
 @media(min-width: 0px) and (max-width: 767px)
